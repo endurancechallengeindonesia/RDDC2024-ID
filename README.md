@@ -5,7 +5,7 @@ Welcome to our repository housing a comprehensive dataset tailored for convoluti
 
 # Key Features
 
-1. **Crowdsourced Labeling**: Each image in our dataset has been painstakingly labeled by a team of 46 dedicated contributors. Their collaborative efforts ensured accurate annotations for training reliable CNN models.
+1. **Crowdsourced Labeling**: Each image in our dataset has been labeled by a diverse team of 44 dedicated contributors. Their collaborative efforts ensured accurate annotations for training reliable CNN models.
 2. **Diverse Road Damage Types**: Our dataset encompasses five distinct types of road damage: longitudinal crack, lateral crack, alligator crack, pothole, and other road damage. This diversity enables the development of models capable of detecting and classifying various forms of road deterioration.
 3. **Indonesian Context**: The images in our dataset originate from real-world roads across Indonesia, providing a contextualized dataset reflective of the unique challenges faced in the region's infrastructure management.
 4. **Usable for Object Detection**: Designed specifically for CNN-based object detection tasks, our dataset facilitates the training and evaluation of models to identify and localize road damage instances accurately
