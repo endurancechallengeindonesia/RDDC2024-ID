@@ -1,5 +1,5 @@
-![image](https://github.com/endurancechallengeindonesia/RDDC2024-ID/assets/167093065/1d637b22-24ab-48f9-bb56-01b01541d290)# RDDC2024-ID
-Road Damage Detection Dataset for Convolutional Neural Network Object Detection - Indonesia
+# RDDC2024-ID
+# Road Damage Detection Dataset for Convolutional Neural Network Object Detection - Indonesia
 
 Welcome to our repository housing a comprehensive dataset tailored for convolutional neural network (CNN) object detection tasks, focusing on road damage detection. Our dataset comprises over 9,000 labeled images sourced from various locations throughout Indonesia, making it a valuable resource for researchers and practitioners in the field of computer vision and infrastructure management.
 
