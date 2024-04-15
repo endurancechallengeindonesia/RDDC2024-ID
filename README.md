@@ -14,11 +14,11 @@ Welcome to our repository housing a comprehensive dataset tailored for convoluti
 # Datasets
 You can download the datasets [here](https://drive.google.com/file/d/1AbNe-dhK2ikaK05ATsPUcJXWW_bsz-pp/view?usp=sharing). The zipfile contains 2 folder : Images and Labels. For the labels:
 
-0 : Longitudinal Crack
-1 : Lateral Crack
-2 : Alligator Crack
-3 : Pothole
-4 : Other
+- 0 : Longitudinal Crack
+- 1 : Lateral Crack
+- 2 : Alligator Crack
+- 3 : Pothole
+- 4 : Other
 
 # Contributors:
 We extend our heartfelt gratitude to the 46 contributors who diligently sourced images from videos captured on Indonesian roads, meticulously labeled the data, and cross-validated the annotations. Their collective dedication and expertise have been instrumental in creating this invaluable dataset.
