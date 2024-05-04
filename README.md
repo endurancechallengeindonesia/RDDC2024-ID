@@ -24,7 +24,7 @@ You can download the datasets [here](https://drive.google.com/file/d/1AbNe-dhK2i
 **1a. Longitudinal Crack**\
 Longitudinal cracks run parallel to the centerline (may be either in the wheel paths or outside). These types of cracks are caused by poor construction of the paving lane joint, shrinkage of the pavement surface as a result of low temperatures, or asphalt hardening and/or daily temperature cycling. 
 
-![Longitudinal Crack](https://raw.githubusercontent.com/endurancechallengeindonesia/RDDC2024-ID/main/images/P2%20-%20Long%20Crack%20Description.png?token=GHSAT0AAAAAACR3DZW634BGYGC5KHKERW74ZRWHBHA)
+![Longitudinal Crack](https://github.com/endurancechallengeindonesia/RDDC2024-ID/blob/main/images/P2%20-%20Long%20Crack%20Description.png?raw=true)
 
 Severity Levels :
 - Low	: Crack widths averaging less than 10 mm or filled cracks of any width in good condition.
@@ -36,7 +36,7 @@ Severity Levels :
 **1b. Lateral Crack**\
 Lateral Cracks are cracks which are predominately perpendicular to the pavement centerline.
 
-![Lateral Crack](https://raw.githubusercontent.com/endurancechallengeindonesia/RDDC2024-ID/main/images/P3%20-%20Lat%20Crack%20Description.png?token=GHSAT0AAAAAACR3DZW622WKKOQ7J7WDPKCKZRWHCWA)
+![Lateral Crack](https://github.com/endurancechallengeindonesia/RDDC2024-ID/blob/main/images/P3%20-%20Lat%20Crack%20Description.png?raw=true)
 
 Severity Levels :
 - Low	: Any unsealed crack with a mean width up to 10 mm or a crack with good condition sealant plus an undetermined width.
@@ -53,7 +53,7 @@ Severity Levels :
 - Moderate: An area of interconnected cracks forming a complete pattern or network. The cracks may be lightly spalled or sealed and pumping is not evident.
 - High	: An area of moderately or severely spalled interconnected cracks forming a complete pattern. The pieces may move under traffic, the cracks may be sealed, and pumping may be evident. 
 
-![Alligator Crack Severity](https://raw.githubusercontent.com/endurancechallengeindonesia/RDDC2024-ID/main/images/P4%20-%20Alligator%20Crack%20Severity.png?token=GHSAT0AAAAAACR3DZW6ZECJWYV6ZYAQRAO4ZRWG27Q)
+![Alligator Crack Severity](https://github.com/endurancechallengeindonesia/RDDC2024-ID/blob/main/images/P4%20-%20Alligator%20Crack%20Severity.png?raw=true)
 
 **3. Pothole**\
 Potholes are depressions on the surface of the pavement that have a small diameter, usually less than 750 mm. Potholes generally have sharp corners and vertical upper wall. If the pothole is formed from a high-severity alligator crack, then the damage is recorded as a pothole, not as a alligator crack or weathering
@@ -63,8 +63,8 @@ Severity Levels :
 - Moderate: Any crack width averaging between 10 mm and 75 mm or any crack up to 75 mm and adjacent low severity random cracking.
 - High	: Any crack width greater than 75 mm or any crack averaging less than 75 mm plus adjacent moderate to high severity random cracking.
 
-![Pothole Severity](https://raw.githubusercontent.com/endurancechallengeindonesia/RDDC2024-ID/main/images/P5%20-%20Pothole%20Severity.png?token=GHSAT0AAAAAACR3DZW6NNQXQY6DAXDXIY22ZRWG4HA)
-![Pothole Severity Classification](https://raw.githubusercontent.com/endurancechallengeindonesia/RDDC2024-ID/main/images/P6%20-%20Pothole%20Severity%20Table.png?token=GHSAT0AAAAAACR3DZW7X6WR6JZOKHXWO6BGZRWHAQA)
+![Pothole Severity](https://github.com/endurancechallengeindonesia/RDDC2024-ID/blob/main/images/P5%20-%20Pothole%20Severity.png?raw=true)
+![Pothole Severity Classification](https://github.com/endurancechallengeindonesia/RDDC2024-ID/blob/main/images/P6%20-%20Pothole%20Severity%20Table.png?raw=true)
 
 # Contributors:
 We extend our heartfelt gratitude to the 44 contributors who sourced images from videos captured on Indonesian roads, labeled the data, and cross-validated the annotations. Their collective dedication have been instrumental in creating this dataset.
