@@ -31,7 +31,7 @@ Severity Levels :
 - Moderate: Cracks averaging between 10 mm and 75 mm or any crack width up to 75 mm plus adjacent low severity random cracking. 
 - High	: Cracks averaging over 75 mm or any crack with average width or less than 75 mm plus adjacent moderate to high severity random cracking.
 
-![Longitudinal / Lateral Crack Severity](https://raw.githubusercontent.com/endurancechallengeindonesia/RDDC2024-ID/main/images/P1%20-%20Long%20-%20Lat%20Crack%20Severity.png?token=GHSAT0AAAAAACR3DZW6WMTT7NVLDYRDYQFCZRWHB5Q)
+![Longitudinal / Lateral Crack Severity](images/P1 - Long - Lat Crack Severity.png)
 
 **1b. Lateral Crack**\
 Lateral Cracks are cracks which are predominately perpendicular to the pavement centerline.
@@ -43,7 +43,7 @@ Severity Levels :
 - Moderate: Any crack width averaging between 10 mm and 75 mm or any crack up to 75 mm and adjacent low severity random cracking.
 - High	: Any crack width greater than 75 mm or any crack averaging less than 75 mm plus adjacent moderate to high severity random cracking.
 
-![Longitudinal / Lateral Crack Severity](https://raw.githubusercontent.com/endurancechallengeindonesia/RDDC2024-ID/main/images/P1%20-%20Long%20-%20Lat%20Crack%20Severity.png?token=GHSAT0AAAAAACR3DZW6HN6442EPF5BGGOZSZRWHCLQ)
+![Longitudinal / Lateral Crack Severity](images/P1 - Long - Lat Crack Severity.png)
 
 **2. Alligator / Fatigue Crack**\
 Alligator/fatigue cracking are road damages that occurs in areas subjected to repeated traffic loadings. In the early stages, this distress can be a series of interconnected cracks, later developing into many-sided, and sharp-angled pieces, with the characteristic alligator pattern or chicken wire appearance. This alligator cracking is a major structural distress and normally occurs with rutting.
